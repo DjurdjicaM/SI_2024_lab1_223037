@@ -1,0 +1,23 @@
+commit ddf9cbc8ace7748813a3f56fbb92897dbadadb43
+Author: Gjurgjica Mladenova <djurdjicamladenovska2003@gmail.com>
+Date:   Sun Mar 31 10:53:42 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit c48b461e5bd77ed529b8d1b46568fdd8f5860e44
+Author: Gjurgjica Mladenova <djurdjicamladenovska2003@gmail.com>
+Date:   Sun Mar 31 10:50:36 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 2a883a9562c5b4f25c158791976c6bd733426fac
+Author: Gjurgjica Mladenova <djurdjicamladenovska2003@gmail.com>
+Date:   Thu Mar 28 22:38:40 2024 +0100
+
+    Add starter code
+
+commit 6a5628566d8246374aaf2f48a90166a24aa4e5de
+Author: Gjurgjica Mladenova <djurdjicamladenovska2003@gmail.com>
+Date:   Thu Mar 28 10:10:34 2024 +0100
+
+    Initial commit
